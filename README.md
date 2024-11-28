@@ -16,3 +16,16 @@ TicketFlow helps creating and mainting tickets used in an agile software develop
 
 Ticketflow manages different template types for those tickets. In addition TicketFlow has access to exiting tickets of various types in the ticketing system and uses this content to create better new tickets and helps finding requirements that are already created.
 
+### Start
+1. npm install
+2. npx shadow-cljs watch app
+
+### Figure out
+This starts the app as well
+
+clj -M:shadow-cljs watch app
+
+What is this
+
+clj -Spath
+clj -Sdeps '{:deps {thheller/shadow-cljs {:mvn/version "2.28.20"}}}'

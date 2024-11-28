@@ -1,0 +1,15 @@
+{
+  "name": "ticketflow",
+  "version": "1.0.0",
+  "description": "The intent of this project is foremost to playaround with clojure-script and while learning it, building a system that helps me with creating and managing tickets in an agile software development project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shadow-cljs": "^2.28.20"
+  }
+}

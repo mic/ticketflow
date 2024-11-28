@@ -1,0 +1,30 @@
+# Ignore build output
+public/js
+.shadow-cljs
+
+# Node.js dependencies
+node_modules/
+
+# Clojure CLI dependencies
+deps.edn.bak
+.clojure/
+
+# Java/Maven caches and logs
+.m2/
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Editor and IDE files
+.vscode/
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Ignore environment files
+.env
