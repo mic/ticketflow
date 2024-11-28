@@ -8,6 +8,7 @@ node_modules/
 # Clojure CLI dependencies
 deps.edn.bak
 .clojure/
+.cpcache/
 
 # Java/Maven caches and logs
 .m2/
@@ -28,3 +29,4 @@ deps.edn.bak
 
 # Ignore environment files
 .env
+
