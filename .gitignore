@@ -9,6 +9,7 @@ node_modules/
 deps.edn.bak
 .clojure/
 .cpcache/
+.clj-kondo/
 
 # Java/Maven caches and logs
 .m2/
